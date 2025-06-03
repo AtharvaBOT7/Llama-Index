@@ -1,0 +1,18 @@
+Llama Index is an open source project and it is a framework for creating LLM based applications. Main aim of Llama Index is to connect 
+custom data resources with LLMs. 
+
+Llama Index provides various functionalities like:
+1. Prompt Template
+2. Agent
+3. Tools
+4. Document Loader
+5. Indexing
+6. Sorting
+7. Query
+8. Evaluation
+
+ Chain and memory functionalities are not available in Llama Index but these functionalities are supported by LangChain.
+ But we can use llamaindex.langchain to access memory and chain components as well.
+
+ Virtual Environment used: llamaindex.
+ To activate the environment: conda activate "/Users/atharva7/Downloads/Llama Index/llamaindex".
